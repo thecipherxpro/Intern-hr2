@@ -1,0 +1,8 @@
+node_modules/
+dist/
+uploads/
+data/documents.json
+.env
+.env.*
+npm-debug.log*
+*.local
